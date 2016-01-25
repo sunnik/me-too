@@ -1,0 +1,78 @@
+body{
+    margin: 0;
+}
+
+#home{background-image: url(http://s3.amazonaws.com/i1338443035/1376262c4e0dfa58f09347e48273d7f6_1394168092_l.jpg); 
+    background-size: cover;
+    background-position:center;
+    height:90vh;
+    background-attachment:fixed;
+    margin: o auto;
+    
+}
+
+h1{margin: 0;}
+
+    .row{max-width: 1140px;
+    margin: 0 auto;    
+
+}
+
+.mahender{
+    margin-bottom: 25px;
+}
+
+
+.top{
+    margin-top: 15px;
+    float: right;
+    padding: 0px 50px;
+
+}
+li {display:inline;padding:30px; text-align: center;
+height:20px;}
+.menu{ height:30px; text-align:center;
+padding: 5px;}
+
+
+h3{
+    font-size: 30px;
+    text-align: center;
+    word-spacing: 2px;
+    margin-bottom: 30px;
+    letter-spacing: 1px;
+} 
+.sunnik img{
+    display:inline;
+    padding:5px;
+    text-align:center;
+    width: 250px;
+    height:220px;
+}
+
+.center{
+    text-align: center;
+}
+footer{
+    background-color: gray;
+    
+}
+footer{
+    text-align: center;
+}
+.menu li a{
+    color:black;
+    
+}
+footer li a{
+    color:black;
+}
+/*sticky*/
+
+sticky{
+    position: fixed;
+}
+img{
+    width=20%;
+    margin:auto;
+}
